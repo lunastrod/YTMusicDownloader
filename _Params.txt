@@ -1,0 +1,2 @@
+output=Songs
+#output=C:\\Astrod\Programacion\YTDownloader5\Songs

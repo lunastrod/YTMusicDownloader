@@ -1,0 +1,3 @@
+Paste the YouTube or Youtube Music links in _Input.txt
+Execute ytd.exe
+Final MP3 files will be saved in the directory specified in _Params.txt
